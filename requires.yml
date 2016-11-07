@@ -1,0 +1,5 @@
+javascripts:
+  files:
+    - recipe.js
+  specs:
+    - spec/recipes_spec.js
